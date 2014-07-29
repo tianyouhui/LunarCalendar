@@ -25,9 +25,12 @@
 # Dirs
 Debug
 Release
-*.ncb
 *.user
 xcuserdata
 project.xcworkspace
 .DS_Store
+
+# Others
+*suo
+*.ncb
 
