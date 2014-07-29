@@ -21,3 +21,11 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Dirs
+Debug
+Release
+*.ncb
+*.user
+xcuserdata
+project.xcworkspace
